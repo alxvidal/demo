@@ -1,5 +1,5 @@
 # Demo
 
-- Learning Github Rockesea
+- Learning Github Rockeseat
 
-1- Pushing modifications to Githubt
+1.  Pushing modifications to Github
